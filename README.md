@@ -1,18 +1,18 @@
 # 🧠 Mental Health in Tech | Advanced Exploratory Data Analysis & Executive Analytics Suite
 
-[![Live Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mental-health-tech-analytics.streamlit.app/)
+[![Live Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mental-health-in-tech-survey-pe2zagjv2otwdymbfqmqpc.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive_Viz-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-ML_Modeling-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Number789Alpha/Mental-Health-in-Tech-Survey)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-604/Mental-Health-in-Tech-Survey)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
 > ### 🌐 **Live Cloud Deployment**
-> 🔗 **Interactive Dashboard:** **[mental-health-tech-analytics.streamlit.app](https://mental-health-tech-analytics.streamlit.app/)**  
-> 🔗 **GitHub Repository:** **[github.com/Number789Alpha/Mental-Health-in-Tech-Survey](https://github.com/Number789Alpha/Mental-Health-in-Tech-Survey)**
+> 🔗 **Interactive Dashboard:** **[mental-health-tech-analytics.streamlit.app](https://mental-health-in-tech-survey-pe2zagjv2otwdymbfqmqpc.streamlit.app/)**  
+> 🔗 **GitHub Repository:** **[github.com/Number789Alpha/Mental-Health-in-Tech-Survey](https://github.com/Ankit-604/Mental-Health-in-Tech-Survey)**
 
 ---
 
